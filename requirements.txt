@@ -1,0 +1,5 @@
+streamlit
+ultralytics
+Pillow
+cv2
+streamlit_paste_button
